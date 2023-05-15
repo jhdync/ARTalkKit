@@ -1,0 +1,6 @@
+framework module ARTalkKit {
+  umbrella header "ARTalkKit.h"
+
+  export *
+  module * { export * }
+}
